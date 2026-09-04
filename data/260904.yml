@@ -1,0 +1,68 @@
+about:
+  description: The most customisable and low-latency cross platform/shell prompt renderer
+  license: MIT
+  homepage: https://ohmyposh.dev
+  head: bc0845d
+  archived: false
+  latestVersion: v31.1.2
+  collectedAt: 2026-09-04T04:32:00Z
+timeline:
+  created: 2019-03-13
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-01
+popularity:
+  star: 23402
+  watcher: 84
+  fork: 2776
+  release: 1612
+  contributor: 481
+  pullRequest: 537
+  issue: 2593
+language:
+  Go: 2644198
+  MDX: 698746
+  JavaScript: 328753
+  PowerShell: 74877
+  Shell: 62942
+  CSS: 42644
+  Lua: 17530
+  Dockerfile: 3543
+  Nushell: 3078
+  Elvish: 2248
+  Xonsh: 1427
+  Standard ML: 320
+  HCL: 47
+totalLine: 3880353
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 14
+    mergedPR: 40
+    openPR: 3
+    closedIssue: 14
+    openIssue: 3
+    commit: 71
+  last90d:
+    since: 2026-06-06
+    release: 56
+    mergedPR: 183
+    openPR: 3
+    closedIssue: 52
+    openIssue: 4
+    commit: 359
+  last180d:
+    since: 2026-03-08
+    release: 68
+    mergedPR: 304
+    openPR: 3
+    closedIssue: 92
+    openIssue: 4
+    commit: 502
+  last360d:
+    since: 2025-09-09
+    release: 100
+    mergedPR: 586
+    openPR: 3
+    closedIssue: 291
+    openIssue: 4
+    commit: 958
