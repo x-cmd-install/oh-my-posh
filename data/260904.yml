@@ -7,7 +7,7 @@ about:
   head: bc0845d
   archived: false
   latestVersion: v31.1.2
-  collectedAt: 2026-09-04T19:32:38Z
+  collectedAt: 2026-09-04T20:59:06Z
 timeline:
   created: 2019-03-13
   lastCommit: 2026-09-03
@@ -92,6 +92,104 @@ total:
   openIssue: 4
   commit: 5458
 ---
+path: /home/runner/.x-repo/github.com/jandedobbeleer/oh-my-posh
+collectedAt: 2026-09-04T20:59:12Z
+loc:
+  Go:
+    code: 72133
+    comments: 8881
+    blanks: 13353
+    files: 598
+  Json:
+    code: 46084
+    comments: 0
+    blanks: 6
+    files: 152
+  JavaScript:
+    code: 6576
+    comments: 1370
+    blanks: 830
+    files: 53
+  PowerShell:
+    code: 1349
+    comments: 318
+    blanks: 235
+    files: 6
+  Yaml:
+    code: 1244
+    comments: 7
+    blanks: 6
+    files: 5
+  MsBuild:
+    code: 887
+    comments: 3
+    blanks: 6
+    files: 2
+  Css:
+    code: 803
+    comments: 259
+    blanks: 148
+    files: 8
+  Fish:
+    code: 528
+    comments: 124
+    blanks: 121
+    files: 1
+  Zsh:
+    code: 478
+    comments: 150
+    blanks: 124
+    files: 1
+  Lua:
+    code: 403
+    comments: 76
+    blanks: 75
+    files: 1
+  Sh:
+    code: 186
+    comments: 15
+    blanks: 50
+    files: 1
+  Bash:
+    code: 160
+    comments: 18
+    blanks: 37
+    files: 1
+  Svg:
+    code: 139
+    comments: 3
+    blanks: 2
+    files: 5
+  Elvish:
+    code: 62
+    comments: 8
+    blanks: 16
+    files: 1
+  Xml:
+    code: 37
+    comments: 0
+    blanks: 0
+    files: 1
+  Hcl:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2207
+    blanks: 747
+    files: 36
+  Text:
+    code: 0
+    comments: 486
+    blanks: 81
+    files: 6
+total:
+  code: 131704
+  comments: 13950
+  blanks: 15858
+  files: 879
 ---
 date: "2022-08-15"
 repo:
