@@ -1,27 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: oh-my-posh
-  visiblename: oh-my-posh
-  version: 24.11.4
-  origversion: null
-  status: outdated
-  summary: Prompt theme engine for any shell
-  maintainers:
-    - lucperkins@gmail.com
-    - colin@urandom.co.uk
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: oh-my-posh
-  visiblename: oh-my-posh
-  version: 26.23.6
-  origversion: null
-  status: outdated
-  summary: Prompt theme engine for any shell
-  maintainers:
-    - lucperkins@gmail.com
-    - colin@urandom.co.uk
-  licenses:
-    - MIT
 - repo: aur
   srcname: oh-my-posh
   binname: oh-my-posh
@@ -65,18 +41,6 @@
   origversion: null
   status: outdated
   summary: Oh my Posh is a custom prompt engine for any shell that has the ability to adjust the prompt string with a function or variable.
-- repo: nix_stable_24_11
-  srcname: oh-my-posh
-  visiblename: oh-my-posh
-  version: 23.20.3
-  origversion: null
-  status: outdated
-  summary: Prompt theme engine for any shell
-  maintainers:
-    - lucperkins@gmail.com
-    - colin@urandom.co.uk
-  licenses:
-    - MIT
 - repo: fedora_42
   subrepo: updates
   srcname: oh-my-posh
@@ -228,6 +192,42 @@
     - colin@urandom.co.uk
   licenses:
     - MIT
+- repo: nix_stable_24_11
+  srcname: oh-my-posh
+  visiblename: oh-my-posh
+  version: 23.20.3
+  origversion: null
+  status: outdated
+  summary: Prompt theme engine for any shell
+  maintainers:
+    - lucperkins@gmail.com
+    - colin@urandom.co.uk
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: oh-my-posh
+  visiblename: oh-my-posh
+  version: 24.11.4
+  origversion: null
+  status: outdated
+  summary: Prompt theme engine for any shell
+  maintainers:
+    - lucperkins@gmail.com
+    - colin@urandom.co.uk
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: oh-my-posh
+  visiblename: oh-my-posh
+  version: 26.23.6
+  origversion: null
+  status: outdated
+  summary: Prompt theme engine for any shell
+  maintainers:
+    - lucperkins@gmail.com
+    - colin@urandom.co.uk
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: oh-my-posh
   visiblename: oh-my-posh
@@ -290,9 +290,9 @@
   srcname: shells/oh-my-posh
   binname: oh-my-posh
   visiblename: shells/oh-my-posh
-  version: 31.1.3
-  origversion: 31.1.3nb1
-  status: outdated
+  version: 31.2.1
+  origversion: null
+  status: newest
   summary: Prompt theme engine for any shell
   maintainers:
     - pin@netbsd.org

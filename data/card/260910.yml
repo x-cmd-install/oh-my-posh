@@ -7,7 +7,7 @@ about:
   latestVersion: "v31.2.1"
   latestRelease: "v31.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:35:53Z
+  collectedAt: 2026-09-10T23:14:38Z
 timeline:
   created: 2019-03-13
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 23440
+  star: 23439
   watcher: 85
   fork: 2777
   release: 1615
@@ -95,7 +95,7 @@ total:
   commit: 5480
 ---
 path: /home/runner/.x-repo/github.com/jandedobbeleer/oh-my-posh
-collectedAt: 2026-09-10T20:36:08Z
+collectedAt: 2026-09-10T23:15:01Z
 loc:
   Go:
     code: 73561
