@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,440 · **Forks**: 2,777 · **Open issues**: 2,598 · **Contributors**: 482
+- **Stars**: 23,439 · **Forks**: 2,777 · **Open issues**: 2,598 · **Contributors**: 482
 
 ## Totals (cumulative)
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **28** distros on [repology.org](https://repology.org/project/oh-my-posh). **9** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **28** distros on [repology.org](https://repology.org/project/oh-my-posh). **10** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,4 +109,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:36:14Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:15:11Z._

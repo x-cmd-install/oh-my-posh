@@ -12,7 +12,7 @@ The most customisable and low-latency cross platform/shell prompt renderer
 x install oh-my-posh
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **132,700** 行代码（覆盖前 5 种语言、共 **818** 个文件）。
 
@@ -48,7 +48,7 @@ x install oh-my-posh
 
 ## 流行度
 
-- **Star**: 23,440 · **Fork**: 2,777 · **开放 issue**: 2,598 · **贡献者**: 482
+- **Star**: 23,439 · **Fork**: 2,777 · **开放 issue**: 2,598 · **贡献者**: 482
 
 ## 累计统计
 
@@ -92,7 +92,7 @@ x install oh-my-posh
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/oh-my-posh) 上共有 **28** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/oh-my-posh) 上共有 **28** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -109,4 +109,4 @@ oh-my-posh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:36:14Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:15:13Z._
