@@ -7,7 +7,7 @@ about:
   latestVersion: "v31.2.1"
   latestRelease: "v31.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:59:33Z
+  collectedAt: 2026-09-10T20:35:53Z
 timeline:
   created: 2019-03-13
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 23433
+  star: 23440
   watcher: 85
-  fork: 2775
+  fork: 2777
   release: 1615
   contributor: 482
   pullRequest: 4067
-  issue: 2597
+  issue: 2598
 language:
   Go: 2699931
   MDX: 698802
@@ -44,7 +44,7 @@ recent:
     mergedPR: 39
     openPR: 2
     closedIssue: 15
-    openIssue: 4
+    openIssue: 5
     commit: 81
   last60d:
     since: 2026-07-12
@@ -52,7 +52,7 @@ recent:
     mergedPR: 116
     openPR: 2
     closedIssue: 36
-    openIssue: 5
+    openIssue: 6
     commit: 242
   last90d:
     since: 2026-06-12
@@ -60,7 +60,7 @@ recent:
     mergedPR: 182
     openPR: 2
     closedIssue: 50
-    openIssue: 5
+    openIssue: 6
     commit: 375
   last180d:
     since: 2026-03-14
@@ -68,7 +68,7 @@ recent:
     mergedPR: 299
     openPR: 2
     closedIssue: 91
-    openIssue: 5
+    openIssue: 6
     commit: 507
   last360d:
     since: 2025-09-15
@@ -76,7 +76,7 @@ recent:
     mergedPR: 575
     openPR: 2
     closedIssue: 274
-    openIssue: 5
+    openIssue: 6
     commit: 947
   last720d:
     since: 2024-09-20
@@ -84,18 +84,18 @@ recent:
     mergedPR: 1008
     openPR: 2
     closedIssue: 688
-    openIssue: 5
+    openIssue: 6
     commit: 1708
 total:
   release: 1615
   mergedPR: 3531
   openPR: 2
   closedIssue: 2592
-  openIssue: 5
+  openIssue: 6
   commit: 5480
 ---
 path: /home/runner/.x-repo/github.com/jandedobbeleer/oh-my-posh
-collectedAt: 2026-09-10T05:59:48Z
+collectedAt: 2026-09-10T20:36:08Z
 loc:
   Go:
     code: 73561
