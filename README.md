@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v31.3.0` (2026-09-13)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-16
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 23,467 · **Forks**: 2,784 · **Open issues**: 2,602 · **Contributors**: 483
+- **Stars**: 23,468 · **Forks**: 2,782 · **Open issues**: 2,602 · **Contributors**: 483
 
 ## Totals (cumulative)
 
-- **Releases**: 1616 · **Merged PRs**: 3539 · **Open PRs**: 3 · **Closed issues**: 2598 · **Open issues**: 4 · **Commits**: 5492
+- **Releases**: 1616 · **Merged PRs**: 3540 · **Open PRs**: 4 · **Closed issues**: 2598 · **Open issues**: 4 · **Commits**: 5493
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 12 | 40 | 3 | 15 | 1 | 77 |
-| last60d | 2026-07-18 | 34 | 104 | 3 | 39 | 4 | 223 |
-| 90d | 2026-06-18 | 56 | 183 | 3 | 56 | 4 | 373 |
-| last180d | 2026-03-20 | 70 | 294 | 3 | 93 | 4 | 507 |
-| 360d | 2025-09-21 | 100 | 578 | 3 | 269 | 4 | 935 |
-| last720d | 2024-09-26 | 100 | 1009 | 3 | 680 | 4 | 1705 |
+| 30d | 2026-08-18 | 12 | 40 | 4 | 15 | 1 | 78 |
+| last60d | 2026-07-19 | 33 | 103 | 4 | 39 | 4 | 224 |
+| 90d | 2026-06-19 | 56 | 182 | 4 | 56 | 4 | 374 |
+| last180d | 2026-03-21 | 70 | 295 | 4 | 92 | 4 | 508 |
+| 360d | 2025-09-22 | 100 | 577 | 4 | 268 | 4 | 936 |
+| last720d | 2024-09-27 | 100 | 1010 | 4 | 679 | 4 | 1702 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:21:35Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:26:38Z._
