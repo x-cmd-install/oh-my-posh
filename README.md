@@ -4,7 +4,7 @@
 
 The most customisable and low-latency cross platform/shell prompt renderer
 
-![oh-my-posh](https://repo.x-cmd.io/oh-my-posh.svg)
+[![x-cmd/install — oh-my-posh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/oh-my-posh.svg)](https://x-cmd.com/install/oh-my-posh)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,474 · **Forks**: 2,785 · **Open issues**: 2,602 · **Contributors**: 483
+- **Stars**: 23,486 · **Forks**: 2,784 · **Open issues**: 2,602 · **Contributors**: 483
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 12 | 39 | 5 | 15 | 1 | 78 |
-| last60d | 2026-07-20 | 33 | 101 | 5 | 38 | 4 | 224 |
-| 90d | 2026-06-20 | 56 | 181 | 5 | 55 | 4 | 374 |
-| last180d | 2026-03-22 | 70 | 294 | 5 | 92 | 4 | 508 |
-| 360d | 2025-09-23 | 100 | 576 | 5 | 266 | 4 | 936 |
-| last720d | 2024-09-28 | 100 | 1010 | 5 | 678 | 4 | 1702 |
+| 30d | 2026-08-21 | 12 | 38 | 5 | 15 | 0 | 78 |
+| last60d | 2026-07-22 | 32 | 97 | 5 | 38 | 4 | 224 |
+| 90d | 2026-06-22 | 56 | 180 | 5 | 55 | 4 | 374 |
+| last180d | 2026-03-24 | 69 | 286 | 5 | 91 | 4 | 508 |
+| 360d | 2025-09-25 | 100 | 575 | 5 | 261 | 4 | 936 |
+| last720d | 2024-09-30 | 100 | 1006 | 5 | 671 | 4 | 1698 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:21:11Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:22:55Z._

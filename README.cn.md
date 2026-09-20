@@ -4,7 +4,7 @@
 
 The most customisable and low-latency cross platform/shell prompt renderer
 
-![oh-my-posh](https://repo.x-cmd.io/oh-my-posh.svg?lang=zh)
+[![x-cmd/install — oh-my-posh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/oh-my-posh.svg?lang=zh)](https://x-cmd.com/install/oh-my-posh)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install oh-my-posh
 
 ## 流行度
 
-- **Star**: 23,474 · **Fork**: 2,785 · **开放 issue**: 2,602 · **贡献者**: 483
+- **Star**: 23,486 · **Fork**: 2,784 · **开放 issue**: 2,602 · **贡献者**: 483
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install oh-my-posh
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 12 | 39 | 5 | 15 | 1 | 78 |
-| last60d | 2026-07-20 | 33 | 101 | 5 | 38 | 4 | 224 |
-| 90d | 2026-06-20 | 56 | 181 | 5 | 55 | 4 | 374 |
-| last180d | 2026-03-22 | 70 | 294 | 5 | 92 | 4 | 508 |
-| 360d | 2025-09-23 | 100 | 576 | 5 | 266 | 4 | 936 |
-| last720d | 2024-09-28 | 100 | 1010 | 5 | 678 | 4 | 1702 |
+| 30d | 2026-08-21 | 12 | 38 | 5 | 15 | 0 | 78 |
+| last60d | 2026-07-22 | 32 | 97 | 5 | 38 | 4 | 224 |
+| 90d | 2026-06-22 | 56 | 180 | 5 | 55 | 4 | 374 |
+| last180d | 2026-03-24 | 69 | 286 | 5 | 91 | 4 | 508 |
+| 360d | 2025-09-25 | 100 | 575 | 5 | 261 | 4 | 936 |
+| last720d | 2024-09-30 | 100 | 1006 | 5 | 671 | 4 | 1698 |
 
 ## Release 资产
 
@@ -99,4 +99,4 @@ oh-my-posh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:21:18Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:22:56Z._
