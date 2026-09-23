@@ -4,7 +4,7 @@
 
 The most customisable and low-latency cross platform/shell prompt renderer
 
-[![x-cmd/install — oh-my-posh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/oh-my-posh.svg)](https://x-cmd.com/install/oh-my-posh)
+[![x-cmd/install — oh-my-posh Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/oh-my-posh.svg)](https://x-cmd.com/install/oh-my-posh)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,490 · **Forks**: 2,788 · **Open issues**: 2,604 · **Contributors**: 483
+- **Stars**: 23,491 · **Forks**: 2,788 · **Open issues**: 2,604 · **Contributors**: 483
 
 ## Totals (cumulative)
 
-- **Releases**: 1616 · **Merged PRs**: 3540 · **Open PRs**: 6 · **Closed issues**: 2598 · **Open issues**: 6 · **Commits**: 5493
+- **Releases**: 1616 · **Merged PRs**: 3540 · **Open PRs**: 7 · **Closed issues**: 2598 · **Open issues**: 6 · **Commits**: 5493
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 12 | 38 | 6 | 14 | 2 | 48 |
-| last60d | 2026-07-24 | 29 | 91 | 6 | 35 | 6 | 199 |
-| 90d | 2026-06-24 | 55 | 169 | 6 | 55 | 6 | 355 |
-| last180d | 2026-03-26 | 68 | 284 | 6 | 91 | 6 | 501 |
-| 360d | 2025-09-27 | 100 | 574 | 6 | 260 | 6 | 925 |
-| last720d | 2024-10-02 | 100 | 1003 | 6 | 666 | 6 | 1695 |
+| 30d | 2026-08-24 | 12 | 37 | 7 | 13 | 2 | 48 |
+| last60d | 2026-07-25 | 27 | 91 | 7 | 35 | 6 | 199 |
+| 90d | 2026-06-25 | 55 | 168 | 7 | 55 | 6 | 355 |
+| last180d | 2026-03-27 | 68 | 283 | 7 | 89 | 6 | 501 |
+| 360d | 2025-09-28 | 100 | 574 | 7 | 260 | 6 | 925 |
+| last720d | 2024-10-03 | 100 | 1002 | 7 | 666 | 6 | 1694 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:22:32Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:46:44Z._
