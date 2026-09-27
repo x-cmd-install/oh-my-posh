@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v31.3.0` (2026-09-13)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-26
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 23,513 · **Forks**: 2,790 · **Open issues**: 2,603 · **Contributors**: 483
+- **Stars**: 23,516 · **Forks**: 2,790 · **Open issues**: 2,603 · **Contributors**: 483
 
 ## Totals (cumulative)
 
-- **Releases**: 1616 · **Merged PRs**: 3540 · **Open PRs**: 7 · **Closed issues**: 2597 · **Open issues**: 6 · **Commits**: 5493
+- **Releases**: 1616 · **Merged PRs**: 3545 · **Open PRs**: 4 · **Closed issues**: 2597 · **Open issues**: 6 · **Commits**: 5497
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 10 | 24 | 5 | 11 | 2 | 48 |
-| last60d | 2026-07-28 | 27 | 84 | 7 | 32 | 5 | 199 |
-| 90d | 2026-06-28 | 54 | 163 | 7 | 55 | 6 | 355 |
-| last180d | 2026-03-30 | 68 | 282 | 7 | 89 | 6 | 501 |
-| 360d | 2025-10-01 | 100 | 572 | 7 | 256 | 6 | 925 |
-| last720d | 2024-10-06 | 100 | 997 | 7 | 662 | 6 | 1690 |
+| 30d | 2026-08-28 | 8 | 27 | 2 | 11 | 2 | 52 |
+| last60d | 2026-07-29 | 25 | 89 | 4 | 32 | 5 | 203 |
+| 90d | 2026-06-29 | 54 | 167 | 4 | 54 | 6 | 359 |
+| last180d | 2026-03-31 | 68 | 287 | 4 | 89 | 6 | 505 |
+| 360d | 2025-10-02 | 100 | 574 | 4 | 256 | 6 | 929 |
+| last720d | 2024-10-07 | 100 | 999 | 4 | 660 | 6 | 1694 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:51:27Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:33:24Z._
