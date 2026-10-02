@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v31.4.0` (2026-09-28)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-10-02
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 23,530 · **Forks**: 2,790 · **Open issues**: 2,602 · **Contributors**: 485
+- **Stars**: 23,530 · **Forks**: 2,790 · **Open issues**: 2,603 · **Contributors**: 485
 
 ## Totals (cumulative)
 
-- **Releases**: 1617 · **Merged PRs**: 3546 · **Open PRs**: 5 · **Closed issues**: 2597 · **Open issues**: 5 · **Commits**: 5504
+- **Releases**: 1617 · **Merged PRs**: 3547 · **Open PRs**: 5 · **Closed issues**: 2597 · **Open issues**: 6 · **Commits**: 5505
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 6 | 21 | 3 | 12 | 1 | 45 |
-| last60d | 2026-08-02 | 23 | 79 | 5 | 34 | 4 | 127 |
-| 90d | 2026-07-03 | 53 | 162 | 5 | 55 | 5 | 338 |
-| last180d | 2026-04-04 | 69 | 287 | 5 | 90 | 5 | 509 |
-| 360d | 2025-10-06 | 100 | 565 | 5 | 252 | 5 | 908 |
-| last720d | 2024-10-11 | 100 | 991 | 5 | 661 | 5 | 1691 |
+| 30d | 2026-09-02 | 5 | 21 | 3 | 12 | 2 | 46 |
+| last60d | 2026-08-03 | 21 | 73 | 5 | 30 | 5 | 128 |
+| 90d | 2026-07-04 | 53 | 161 | 5 | 55 | 6 | 339 |
+| last180d | 2026-04-05 | 69 | 288 | 5 | 90 | 6 | 510 |
+| 360d | 2025-10-07 | 100 | 563 | 5 | 248 | 6 | 909 |
+| last720d | 2024-10-12 | 100 | 992 | 5 | 661 | 6 | 1684 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:53:27Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:40:59Z._
