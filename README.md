@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v31.5.0` (2026-10-06)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-08
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 23,554 · **Forks**: 2,794 · **Open issues**: 2,608 · **Contributors**: 487
+- **Stars**: 23,564 · **Forks**: 2,796 · **Open issues**: 2,608 · **Contributors**: 487
 
 ## Totals (cumulative)
 
-- **Releases**: 1619 · **Merged PRs**: 3560 · **Open PRs**: 1 · **Closed issues**: 2605 · **Open issues**: 3 · **Commits**: 5519
+- **Releases**: 1619 · **Merged PRs**: 3561 · **Open PRs**: 1 · **Closed issues**: 2605 · **Open issues**: 3 · **Commits**: 5520
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 6 | 29 | 1 | 13 | 1 | 37 |
-| last60d | 2026-08-08 | 17 | 69 | 1 | 29 | 2 | 123 |
-| 90d | 2026-07-09 | 51 | 152 | 1 | 53 | 3 | 307 |
-| last180d | 2026-04-10 | 69 | 280 | 1 | 94 | 3 | 501 |
-| 360d | 2025-10-12 | 100 | 574 | 1 | 246 | 3 | 916 |
-| last720d | 2024-10-17 | 100 | 1000 | 1 | 661 | 3 | 1693 |
+| 30d | 2026-09-08 | 5 | 29 | 1 | 12 | 1 | 38 |
+| last60d | 2026-08-09 | 16 | 69 | 1 | 29 | 2 | 124 |
+| 90d | 2026-07-10 | 49 | 150 | 1 | 52 | 3 | 308 |
+| last180d | 2026-04-11 | 68 | 280 | 1 | 93 | 3 | 502 |
+| 360d | 2025-10-13 | 100 | 573 | 1 | 244 | 3 | 917 |
+| last720d | 2024-10-18 | 100 | 1001 | 1 | 658 | 3 | 1694 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:59:53Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:14:20Z._
