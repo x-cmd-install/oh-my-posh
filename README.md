@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v31.8.0` (2026-10-12)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-15
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 23,583 · **Forks**: 2,800 · **Open issues**: 2,608 · **Contributors**: 487
+- **Stars**: 23,588 · **Forks**: 2,801 · **Open issues**: 2,607 · **Contributors**: 487
 
 ## Totals (cumulative)
 
-- **Releases**: 1622 · **Merged PRs**: 3565 · **Open PRs**: 7 · **Closed issues**: 2608 · **Open issues**: 0 · **Commits**: 5532
+- **Releases**: 1622 · **Merged PRs**: 3573 · **Open PRs**: 3 · **Closed issues**: 2607 · **Open issues**: 0 · **Commits**: 5539
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 6 | 23 | 7 | 7 | 0 | 34 |
-| last60d | 2026-08-15 | 18 | 67 | 7 | 25 | 0 | 118 |
-| 90d | 2026-07-16 | 42 | 133 | 7 | 50 | 0 | 266 |
-| last180d | 2026-04-17 | 71 | 279 | 7 | 92 | 0 | 511 |
-| 360d | 2025-10-19 | 100 | 572 | 7 | 242 | 0 | 919 |
-| last720d | 2024-10-24 | 100 | 997 | 7 | 653 | 0 | 1700 |
+| 30d | 2026-09-15 | 6 | 31 | 3 | 7 | 0 | 41 |
+| last60d | 2026-08-16 | 18 | 75 | 3 | 24 | 0 | 125 |
+| 90d | 2026-07-17 | 41 | 139 | 3 | 50 | 0 | 273 |
+| last180d | 2026-04-18 | 71 | 287 | 3 | 91 | 0 | 518 |
+| 360d | 2025-10-20 | 100 | 580 | 3 | 242 | 0 | 926 |
+| last720d | 2024-10-25 | 100 | 1001 | 3 | 653 | 0 | 1706 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:09:31Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:39:08Z._
