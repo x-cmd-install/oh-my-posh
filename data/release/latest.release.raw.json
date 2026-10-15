@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 846,
       "digest": "sha256:1b78cf5838d806519bc1c83ae480108c16888f97e0cc375d4329b44e87a9f259",
-      "download_count": 321,
+      "download_count": 496,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:04Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:ce5cd22f8761eec4a9254ba96a70708f9624a634f596b34136bf3777a59c4660",
-      "download_count": 69,
+      "download_count": 101,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:04Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/checksums.txt.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 592,
       "digest": "sha256:003fa5965217866c329bde9558659ce42b9dcc16bcd0bdf8e59e1080559ab283",
-      "download_count": 17,
+      "download_count": 22,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:04Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/install-arm64.appinstaller"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5496588,
       "digest": "sha256:e99606813b31faa5a0c4c1eb3e3df672f3a0d1d5cb899ed8709f68d4c731002a",
-      "download_count": 1359,
+      "download_count": 1554,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:05Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/install-arm64.msix"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 586,
       "digest": "sha256:335795490207be3ef892615da0c5e9c53d315eb6a7f71cc1d34bc35654a0ef5f",
-      "download_count": 24,
+      "download_count": 35,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:05Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/install-x64.appinstaller"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6152251,
       "digest": "sha256:c16228aaf44d38e9ed41597293f177738ef2764fb67f207f922aba896abb32d5",
-      "download_count": 20438,
+      "download_count": 27360,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:05Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/install-x64.msix"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 36013608,
       "digest": "sha256:269d5d74ee359ff7188633292bb62f67686106c36b588a3d877333ede1c3aab1",
-      "download_count": 15,
+      "download_count": 21,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:06Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/oh-my-posh-31.8.0-deps.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 14194420,
       "digest": "sha256:f82785b507c21b6b977402b2d364106a47b59a7e09b598499cb30665d9214961",
-      "download_count": 14,
+      "download_count": 18,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:05Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/posh-android-arm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 14938656,
       "digest": "sha256:b6bfd5d77943203780bcfc0f57c3924cc983e1a62b55798aed32b0c4e448e304",
-      "download_count": 34,
+      "download_count": 44,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:06Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/posh-darwin-amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 13985954,
       "digest": "sha256:691447df3b8a3c51a018959fdb5fdfa1aa5132e36f5614d038ed4461f8cee3c8",
-      "download_count": 91,
+      "download_count": 144,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:05Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/posh-darwin-arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 14446762,
       "digest": "sha256:f04b7dce693de701c60536e31b5b435ce52e03ed8fcdc765c322557a8bb491bd",
-      "download_count": 12,
+      "download_count": 17,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:06Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/posh-freebsd-amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 14090410,
       "digest": "sha256:a31ce45de77d2b44fd70698a3c0430dd520a1997632f20eb8dc52aa37008feef",
-      "download_count": 12,
+      "download_count": 17,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:06Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/posh-freebsd-arm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 13435050,
       "digest": "sha256:27a6ff5ba570b9cffe3c2f1897858b28c0490616afcc5a16ff241adb3079ead6",
-      "download_count": 11,
+      "download_count": 16,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:06Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/posh-freebsd-arm64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 14573728,
       "digest": "sha256:c0e1c088d2b366a60e5f4047a5eb02cf6f10b03989191bbc564d733aafba307f",
-      "download_count": 1249,
+      "download_count": 1971,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:06Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/posh-linux-amd64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 14221472,
       "digest": "sha256:0545ad95bff1502c9f598f1caf4bc247afb06b4f895d5260db81c4a1529d2a75",
-      "download_count": 29,
+      "download_count": 37,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:05Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/posh-linux-arm"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 13566112,
       "digest": "sha256:c7ee6d1075b625a4f151bf177defbaed55995b2fcd98e410c7990d2394c3fd80",
-      "download_count": 118,
+      "download_count": 188,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:05Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/posh-linux-arm64"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 15111440,
       "digest": "sha256:a6ed521aa9b1668e3169a9eb72da969fadf20e898bda80083e0f7e0688816027",
-      "download_count": 2282,
+      "download_count": 2893,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:06Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/posh-windows-amd64.exe"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 13841168,
       "digest": "sha256:67c887317dcbec163384de96abbfde19f012956e48b25e5d2c1380eee960fd4c",
-      "download_count": 43,
+      "download_count": 59,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:05Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/posh-windows-arm64.exe"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 151521,
       "digest": "sha256:4b490895d890bf25a58a29467f97cb95b7ad4b100d9c2f29aa6fa96865326ec7",
-      "download_count": 2482,
+      "download_count": 3305,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:04Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/themes.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 8,
       "digest": "sha256:e321e6d6e537410802d6cff40153cfde1c15b13e78cb95fef3bd0ee82e096351",
-      "download_count": 591,
+      "download_count": 999,
       "created_at": "2026-10-12T05:51:04Z",
       "updated_at": "2026-10-12T05:51:04Z",
       "browser_download_url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v31.8.0/version.txt"
