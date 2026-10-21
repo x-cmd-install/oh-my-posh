@@ -14,13 +14,13 @@ x install oh-my-posh
 
 ## 代码洞察
 
-合计: **134,379** 行代码（覆盖前 5 种语言、共 **834** 个文件）。
+合计: **134,915** 行代码（覆盖前 5 种语言、共 **836** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 75,836 | 9,192 | 13,952 | 615 |
-| Json | 46,175 | 0 | 6 | 152 |
-| JavaScript | 6,579 | 1,376 | 830 | 53 |
+| Go | 76,299 | 9,199 | 13,991 | 617 |
+| Json | 46,247 | 0 | 6 | 152 |
+| JavaScript | 6,580 | 1,376 | 830 | 53 |
 | PowerShell | 1,357 | 318 | 237 | 6 |
 | Css | 990 | 274 | 172 | 8 |
 
@@ -42,53 +42,53 @@ x install oh-my-posh
 
 ## 发布
 
-- **最新版本**: `v31.8.0` (2026-10-12)
-- **最近提交**: 2026-10-15
+- **最新版本**: `v31.9.1` (2026-10-20)
+- **最近提交**: 2026-10-21
 - **Release 含资产**: 20 个
 
 ## 流行度
 
-- **Star**: 23,607 · **Fork**: 2,801 · **开放 issue**: 2,608 · **贡献者**: 487
+- **Star**: 23,613 · **Fork**: 2,802 · **开放 issue**: 2,608 · **贡献者**: 493
 
 ## 累计统计
 
-- **发布数**: 1622 · **已合并 PR**: 3573 · **开放 PR**: 5 · **已关闭 issue**: 2608 · **开放 issue**: 0 · **提交数**: 5539
+- **发布数**: 1624 · **已合并 PR**: 3583 · **开放 PR**: 3 · **已关闭 issue**: 2608 · **开放 issue**: 0 · **提交数**: 5559
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 6 | 28 | 5 | 7 | 0 | 39 |
-| last60d | 2026-08-21 | 18 | 71 | 5 | 22 | 0 | 105 |
-| 90d | 2026-07-22 | 38 | 130 | 5 | 49 | 0 | 252 |
-| last180d | 2026-04-23 | 71 | 285 | 5 | 88 | 0 | 512 |
-| 360d | 2025-10-25 | 100 | 576 | 5 | 234 | 0 | 909 |
-| last720d | 2024-10-30 | 100 | 1001 | 5 | 644 | 0 | 1702 |
+| 30d | 2026-09-21 | 8 | 37 | 3 | 5 | 0 | 59 |
+| last60d | 2026-08-22 | 20 | 81 | 3 | 22 | 0 | 125 |
+| 90d | 2026-07-23 | 39 | 136 | 3 | 49 | 0 | 272 |
+| last180d | 2026-04-24 | 73 | 293 | 3 | 86 | 0 | 532 |
+| 360d | 2025-10-26 | 100 | 583 | 3 | 234 | 0 | 929 |
+| last720d | 2024-10-31 | 100 | 1011 | 3 | 644 | 0 | 1722 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/checksums.txt) | 846 B | `other` |
-| [checksums.txt.sig](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/checksums.txt.sig) | 64 B | `other` |
-| [install-arm64.appinstaller](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/install-arm64.appinstaller) | 592 B | `other` |
-| [install-arm64.msix](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/install-arm64.msix) | 5.2 MiB | `other` |
-| [install-x64.appinstaller](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/install-x64.appinstaller) | 586 B | `other` |
-| [install-x64.msix](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/install-x64.msix) | 5.9 MiB | `other` |
-| [oh-my-posh-31.8.0-deps.tar.xz](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/oh-my-posh-31.8.0-deps.tar.xz) | 34.3 MiB | `other` |
-| [posh-android-arm](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/posh-android-arm) | 13.5 MiB | `other` |
-| [posh-darwin-amd64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/posh-darwin-amd64) | 14.2 MiB | `native/darwin/x64` |
-| [posh-darwin-arm64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/posh-darwin-arm64) | 13.3 MiB | `native/darwin/arm64` |
-| [posh-freebsd-amd64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/posh-freebsd-amd64) | 13.8 MiB | `other` |
-| [posh-freebsd-arm](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/posh-freebsd-arm) | 13.4 MiB | `other` |
-| [posh-freebsd-arm64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/posh-freebsd-arm64) | 12.8 MiB | `other` |
-| [posh-linux-amd64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/posh-linux-amd64) | 13.9 MiB | `native/linux/x64` |
-| [posh-linux-arm](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/posh-linux-arm) | 13.6 MiB | `native/linux/arm` |
-| [posh-linux-arm64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/posh-linux-arm64) | 12.9 MiB | `native/linux/arm64` |
-| [posh-windows-amd64.exe](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/posh-windows-amd64.exe) | 14.4 MiB | `native/win/x64` |
-| [posh-windows-arm64.exe](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/posh-windows-arm64.exe) | 13.2 MiB | `native/win/arm64` |
-| [themes.zip](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/themes.zip) | 148.0 KiB | `other` |
-| [version.txt](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.8.0/version.txt) | 8 B | `other` |
+| [checksums.txt](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/checksums.txt) | 846 B | `other` |
+| [checksums.txt.sig](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/checksums.txt.sig) | 64 B | `other` |
+| [install-arm64.appinstaller](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/install-arm64.appinstaller) | 592 B | `other` |
+| [install-arm64.msix](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/install-arm64.msix) | 5.2 MiB | `other` |
+| [install-x64.appinstaller](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/install-x64.appinstaller) | 586 B | `other` |
+| [install-x64.msix](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/install-x64.msix) | 5.9 MiB | `other` |
+| [oh-my-posh-31.9.1-deps.tar.xz](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/oh-my-posh-31.9.1-deps.tar.xz) | 34.3 MiB | `other` |
+| [posh-android-arm](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/posh-android-arm) | 13.5 MiB | `other` |
+| [posh-darwin-amd64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/posh-darwin-amd64) | 14.3 MiB | `native/darwin/x64` |
+| [posh-darwin-arm64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/posh-darwin-arm64) | 13.3 MiB | `native/darwin/arm64` |
+| [posh-freebsd-amd64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/posh-freebsd-amd64) | 13.8 MiB | `other` |
+| [posh-freebsd-arm](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/posh-freebsd-arm) | 13.5 MiB | `other` |
+| [posh-freebsd-arm64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/posh-freebsd-arm64) | 12.8 MiB | `other` |
+| [posh-linux-amd64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/posh-linux-amd64) | 13.9 MiB | `native/linux/x64` |
+| [posh-linux-arm](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/posh-linux-arm) | 13.6 MiB | `native/linux/arm` |
+| [posh-linux-arm64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/posh-linux-arm64) | 12.9 MiB | `native/linux/arm64` |
+| [posh-windows-amd64.exe](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/posh-windows-amd64.exe) | 14.4 MiB | `native/win/x64` |
+| [posh-windows-arm64.exe](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/posh-windows-arm64.exe) | 13.2 MiB | `native/win/arm64` |
+| [themes.zip](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/themes.zip) | 148.0 KiB | `other` |
+| [version.txt](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/version.txt) | 8 B | `other` |
 
 ## 改进这些数据
 
@@ -99,4 +99,4 @@ oh-my-posh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:58:35Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:51:53Z._
