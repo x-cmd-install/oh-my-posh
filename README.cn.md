@@ -48,7 +48,7 @@ x install oh-my-posh
 
 ## 流行度
 
-- **Star**: 23,620 · **Fork**: 2,799 · **开放 issue**: 2,608 · **贡献者**: 493
+- **Star**: 23,631 · **Fork**: 2,798 · **开放 issue**: 2,608 · **贡献者**: 493
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install oh-my-posh
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 8 | 36 | 2 | 5 | 0 | 59 |
-| last60d | 2026-08-23 | 20 | 81 | 2 | 21 | 0 | 125 |
-| 90d | 2026-07-24 | 37 | 134 | 2 | 46 | 0 | 272 |
-| last180d | 2026-04-25 | 73 | 293 | 2 | 86 | 0 | 532 |
-| 360d | 2025-10-27 | 100 | 582 | 2 | 234 | 0 | 929 |
-| last720d | 2024-11-01 | 100 | 1009 | 2 | 644 | 0 | 1722 |
+| 30d | 2026-09-23 | 8 | 36 | 2 | 5 | 0 | 59 |
+| last60d | 2026-08-24 | 20 | 80 | 2 | 20 | 0 | 125 |
+| 90d | 2026-07-25 | 35 | 134 | 2 | 46 | 0 | 272 |
+| last180d | 2026-04-26 | 73 | 293 | 2 | 86 | 0 | 532 |
+| 360d | 2025-10-28 | 100 | 582 | 2 | 232 | 0 | 929 |
+| last720d | 2024-11-02 | 100 | 1009 | 2 | 644 | 0 | 1720 |
 
 ## Release 资产
 
@@ -90,6 +90,16 @@ x install oh-my-posh
 | [themes.zip](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/themes.zip) | 148.0 KiB | `other` |
 | [version.txt](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v31.9.1/version.txt) | 8 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/oh-my-posh) 上共有 **28** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**18** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `31.9.1` | ✅ latest |
+| Fedora rawhide | `30.5.0` | ⚠️ outdated |
+| Nix unstable | `30.9.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 oh-my-posh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `oh-my-posh` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -99,4 +109,4 @@ oh-my-posh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:48:40Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:48:24Z._
