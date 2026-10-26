@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,650 · **Forks**: 2,799 · **Open issues**: 2,609 · **Contributors**: 493
+- **Stars**: 23,655 · **Forks**: 2,798 · **Open issues**: 2,609 · **Contributors**: 493
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 8 | 36 | 2 | 5 | 1 | 59 |
-| last60d | 2026-08-26 | 19 | 70 | 2 | 19 | 1 | 125 |
-| 90d | 2026-07-27 | 35 | 131 | 2 | 44 | 1 | 272 |
-| last180d | 2026-04-28 | 73 | 281 | 2 | 86 | 1 | 532 |
-| 360d | 2025-10-30 | 100 | 578 | 2 | 230 | 1 | 929 |
-| last720d | 2024-11-04 | 100 | 1003 | 2 | 640 | 1 | 1720 |
+| 30d | 2026-09-26 | 8 | 34 | 2 | 5 | 1 | 50 |
+| last60d | 2026-08-27 | 18 | 65 | 2 | 18 | 1 | 102 |
+| 90d | 2026-07-28 | 35 | 127 | 2 | 42 | 1 | 196 |
+| last180d | 2026-04-29 | 72 | 279 | 2 | 86 | 1 | 517 |
+| 360d | 2025-10-31 | 100 | 577 | 2 | 230 | 1 | 909 |
+| last720d | 2024-11-05 | 100 | 998 | 2 | 634 | 1 | 1673 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **28** distros on [repology.org](https://repology.org/project/oh-my-posh). **7** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **28** distros on [repology.org](https://repology.org/project/oh-my-posh). **8** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,4 +109,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:48:55Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:41:49Z._
