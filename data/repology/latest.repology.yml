@@ -256,8 +256,8 @@
   srcname: oh-my-posh-git
   binname: oh-my-posh-git
   visiblename: oh-my-posh-git
-  version: 0b9da69d
-  origversion: 0b9da69d-2
+  version: 7397fb6a
+  origversion: 7397fb6a-2
   status: rolling
   summary: A prompt theme engine for any shell
   maintainers:
