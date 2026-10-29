@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,662 · **Forks**: 2,799 · **Open issues**: 2,610 · **Contributors**: 493
+- **Stars**: 23,670 · **Forks**: 2,799 · **Open issues**: 2,611 · **Contributors**: 493
 
 ## Totals (cumulative)
 
-- **Releases**: 1624 · **Merged PRs**: 3584 · **Open PRs**: 3 · **Closed issues**: 2609 · **Open issues**: 1 · **Commits**: 5560
+- **Releases**: 1624 · **Merged PRs**: 3584 · **Open PRs**: 4 · **Closed issues**: 2609 · **Open issues**: 2 · **Commits**: 5560
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 8 | 35 | 3 | 5 | 1 | 51 |
-| last60d | 2026-08-29 | 16 | 64 | 3 | 18 | 1 | 103 |
-| 90d | 2026-07-30 | 33 | 127 | 3 | 42 | 1 | 197 |
-| last180d | 2026-05-01 | 71 | 277 | 3 | 87 | 1 | 518 |
-| 360d | 2025-11-02 | 100 | 578 | 3 | 229 | 1 | 910 |
-| last720d | 2024-11-07 | 100 | 988 | 3 | 628 | 1 | 1663 |
+| 30d | 2026-09-29 | 7 | 34 | 4 | 4 | 2 | 51 |
+| last60d | 2026-08-30 | 16 | 63 | 4 | 18 | 2 | 103 |
+| 90d | 2026-07-31 | 32 | 125 | 4 | 42 | 2 | 197 |
+| last180d | 2026-05-02 | 71 | 276 | 4 | 87 | 2 | 518 |
+| 360d | 2025-11-03 | 100 | 577 | 4 | 227 | 2 | 910 |
+| last720d | 2024-11-08 | 100 | 979 | 4 | 625 | 2 | 1649 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:42:18Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:04:16Z._
