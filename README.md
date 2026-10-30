@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v31.9.1` (2026-10-20)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 23,670 · **Forks**: 2,799 · **Open issues**: 2,611 · **Contributors**: 493
+- **Stars**: 23,677 · **Forks**: 2,800 · **Open issues**: 2,611 · **Contributors**: 494
 
 ## Totals (cumulative)
 
-- **Releases**: 1624 · **Merged PRs**: 3584 · **Open PRs**: 4 · **Closed issues**: 2609 · **Open issues**: 2 · **Commits**: 5560
+- **Releases**: 1624 · **Merged PRs**: 3586 · **Open PRs**: 4 · **Closed issues**: 2609 · **Open issues**: 2 · **Commits**: 5563
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 7 | 34 | 4 | 4 | 2 | 51 |
-| last60d | 2026-08-30 | 16 | 63 | 4 | 18 | 2 | 103 |
-| 90d | 2026-07-31 | 32 | 125 | 4 | 42 | 2 | 197 |
-| last180d | 2026-05-02 | 71 | 276 | 4 | 87 | 2 | 518 |
-| 360d | 2025-11-03 | 100 | 577 | 4 | 227 | 2 | 910 |
-| last720d | 2024-11-08 | 100 | 979 | 4 | 625 | 2 | 1649 |
+| 30d | 2026-09-30 | 7 | 35 | 4 | 4 | 2 | 54 |
+| last60d | 2026-08-31 | 14 | 61 | 4 | 17 | 2 | 106 |
+| 90d | 2026-08-01 | 32 | 124 | 4 | 42 | 2 | 200 |
+| last180d | 2026-05-03 | 71 | 278 | 4 | 87 | 2 | 521 |
+| 360d | 2025-11-04 | 100 | 575 | 4 | 225 | 2 | 913 |
+| last720d | 2024-11-09 | 100 | 980 | 4 | 625 | 2 | 1642 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T07:04:16Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:51:42Z._
