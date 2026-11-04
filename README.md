@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,699 · **Forks**: 2,803 · **Open issues**: 2,612 · **Contributors**: 494
+- **Stars**: 23,706 · **Forks**: 2,804 · **Open issues**: 2,612 · **Contributors**: 494
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 6 | 30 | 9 | 3 | 3 | 41 |
-| last60d | 2026-09-04 | 12 | 58 | 9 | 17 | 3 | 83 |
-| 90d | 2026-08-05 | 26 | 101 | 9 | 34 | 3 | 168 |
-| last180d | 2026-05-07 | 70 | 271 | 9 | 84 | 3 | 511 |
-| 360d | 2025-11-08 | 100 | 569 | 9 | 223 | 3 | 896 |
-| last720d | 2024-11-13 | 100 | 972 | 9 | 617 | 3 | 1631 |
+| 30d | 2026-10-05 | 6 | 30 | 9 | 3 | 3 | 41 |
+| last60d | 2026-09-05 | 12 | 56 | 9 | 17 | 3 | 83 |
+| 90d | 2026-08-06 | 23 | 99 | 9 | 33 | 3 | 168 |
+| last180d | 2026-05-08 | 69 | 271 | 9 | 84 | 3 | 511 |
+| 360d | 2025-11-09 | 100 | 569 | 9 | 221 | 3 | 896 |
+| last720d | 2024-11-14 | 100 | 968 | 9 | 615 | 3 | 1625 |
 
 ## Release assets
 
@@ -96,7 +96,7 @@ Reported by **28** distros on [repology.org](https://repology.org/project/oh-my-
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `31.9.1` | ✅ latest |
 | Fedora rawhide | `30.5.0` | ⚠️ outdated |
 | Nix unstable | `30.9.0` | ⚠️ outdated |
 
@@ -109,4 +109,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:58:17Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:34:57Z._
