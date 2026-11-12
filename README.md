@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v32.0.0` (2026-11-08)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 23,741 · **Forks**: 2,806 · **Open issues**: 2,617 · **Contributors**: 496
+- **Stars**: 23,745 · **Forks**: 2,806 · **Open issues**: 2,617 · **Contributors**: 496
 
 ## Totals (cumulative)
 
-- **Releases**: 1625 · **Merged PRs**: 3597 · **Open PRs**: 11 · **Closed issues**: 2611 · **Open issues**: 6 · **Commits**: 5576
+- **Releases**: 1625 · **Merged PRs**: 3598 · **Open PRs**: 10 · **Closed issues**: 2611 · **Open issues**: 6 · **Commits**: 5577
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 4 | 27 | 11 | 3 | 6 | 33 |
-| last60d | 2026-09-12 | 10 | 61 | 11 | 11 | 6 | 81 |
-| 90d | 2026-08-13 | 21 | 99 | 11 | 29 | 6 | 176 |
-| last180d | 2026-05-15 | 70 | 277 | 11 | 84 | 6 | 510 |
-| 360d | 2025-11-16 | 100 | 571 | 11 | 217 | 6 | 895 |
-| last720d | 2024-11-21 | 100 | 968 | 11 | 608 | 6 | 1616 |
+| 30d | 2026-10-13 | 3 | 28 | 10 | 3 | 6 | 34 |
+| last60d | 2026-09-13 | 10 | 57 | 10 | 10 | 6 | 82 |
+| 90d | 2026-08-14 | 21 | 100 | 10 | 28 | 6 | 177 |
+| last180d | 2026-05-16 | 70 | 275 | 10 | 84 | 6 | 511 |
+| 360d | 2025-11-17 | 100 | 572 | 10 | 217 | 6 | 896 |
+| last720d | 2024-11-22 | 100 | 968 | 10 | 605 | 6 | 1616 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **28** distros on [repology.org](https://repology.org/project/oh-my-posh). **5** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+Reported by **28** distros on [repology.org](https://repology.org/project/oh-my-posh). **6** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,4 +109,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:28:12Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:44:10Z._
