@@ -1,3 +1,41 @@
+- repo: homebrew
+  srcname: oh-my-posh
+  visiblename: oh-my-posh
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Prompt theme engine for any shell
+- repo: pkgsrc_2026_3
+  srcname: shells/oh-my-posh
+  binname: oh-my-posh
+  visiblename: shells/oh-my-posh
+  version: 31.3.0
+  origversion: 31.3.0nb1
+  status: outdated
+  summary: Prompt theme engine for any shell
+  maintainers:
+    - pin@netbsd.org
+  categories:
+    - shells
+- repo: pkgsrc_current
+  srcname: shells/oh-my-posh
+  binname: oh-my-posh
+  visiblename: shells/oh-my-posh
+  version: 32.0.0
+  origversion: 32.0.0nb1
+  status: newest
+  summary: Prompt theme engine for any shell
+  maintainers:
+    - pin@netbsd.org
+  categories:
+    - shells
+- repo: homebrew
+  srcname: oh-my-posh
+  visiblename: oh-my-posh
+  version: 32.0.0
+  origversion: null
+  status: newest
+  summary: Prompt theme engine for any shell
 - repo: aur
   srcname: oh-my-posh
   binname: oh-my-posh
@@ -41,16 +79,6 @@
   origversion: null
   status: outdated
   summary: Oh my Posh is a custom prompt engine for any shell that has the ability to adjust the prompt string with a function or variable.
-- repo: msys2_ucrt64
-  srcname: mingw-w64-oh-my-posh
-  binname: mingw-w64-ucrt-x86_64-oh-my-posh
-  visiblename: mingw-w64-ucrt-x86_64-oh-my-posh
-  version: 31.7.0
-  origversion: 31.7.0-1
-  status: outdated
-  summary: A prompt theme engine for any shell (mingw-w64)
-  licenses:
-    - spdx:MIT
 - repo: fedora_42
   subrepo: updates
   srcname: oh-my-posh
@@ -131,27 +159,13 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT
   categories:
     - Unspecified
-- repo: homebrew
-  srcname: oh-my-posh
-  visiblename: oh-my-posh
-  version: 32.0.0
-  origversion: null
-  status: newest
-  summary: Prompt theme engine for any shell
-- repo: homebrew
-  srcname: oh-my-posh
-  visiblename: oh-my-posh
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Prompt theme engine for any shell
 - repo: macports
   srcname: sysutils/oh-my-posh
   binname: oh-my-posh
   visiblename: oh-my-posh
-  version: 31.9.1
+  version: 32.0.0
   origversion: null
-  status: outdated
+  status: newest
   summary: A prompt theme engine for any shell.
   maintainers:
     - herbygillot@github
@@ -174,6 +188,16 @@
   srcname: mingw-w64-oh-my-posh
   binname: mingw-w64-clang-aarch64-oh-my-posh
   visiblename: mingw-w64-clang-aarch64-oh-my-posh
+  version: 31.7.0
+  origversion: 31.7.0-1
+  status: outdated
+  summary: A prompt theme engine for any shell (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: msys2_ucrt64
+  srcname: mingw-w64-oh-my-posh
+  binname: mingw-w64-ucrt-x86_64-oh-my-posh
+  visiblename: mingw-w64-ucrt-x86_64-oh-my-posh
   version: 31.7.0
   origversion: 31.7.0-1
   status: outdated
@@ -256,8 +280,8 @@
   srcname: oh-my-posh-git
   binname: oh-my-posh-git
   visiblename: oh-my-posh-git
-  version: 2c9e37aa
-  origversion: 2c9e37aa-2
+  version: 15c0a28c
+  origversion: 15c0a28c-2
   status: rolling
   summary: A prompt theme engine for any shell
   maintainers:
@@ -269,30 +293,6 @@
   version: 29.15.1
   origversion: 29.15.1nb1
   status: outdated
-  summary: Prompt theme engine for any shell
-  maintainers:
-    - pin@netbsd.org
-  categories:
-    - shells
-- repo: pkgsrc_2026_3
-  srcname: shells/oh-my-posh
-  binname: oh-my-posh
-  visiblename: shells/oh-my-posh
-  version: 31.3.0
-  origversion: 31.3.0nb1
-  status: outdated
-  summary: Prompt theme engine for any shell
-  maintainers:
-    - pin@netbsd.org
-  categories:
-    - shells
-- repo: pkgsrc_current
-  srcname: shells/oh-my-posh
-  binname: oh-my-posh
-  visiblename: shells/oh-my-posh
-  version: 32.0.0
-  origversion: 32.0.0nb1
-  status: newest
   summary: Prompt theme engine for any shell
   maintainers:
     - pin@netbsd.org
