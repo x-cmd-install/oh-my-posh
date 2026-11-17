@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v32.1.0` (2026-11-15)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-17
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 23,761 · **Forks**: 2,803 · **Open issues**: 2,619 · **Contributors**: 497
+- **Stars**: 23,768 · **Forks**: 2,803 · **Open issues**: 2,620 · **Contributors**: 497
 
 ## Totals (cumulative)
 
-- **Releases**: 1626 · **Merged PRs**: 3604 · **Open PRs**: 10 · **Closed issues**: 2612 · **Open issues**: 7 · **Commits**: 5583
+- **Releases**: 1626 · **Merged PRs**: 3610 · **Open PRs**: 6 · **Closed issues**: 2612 · **Open issues**: 8 · **Commits**: 5585
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 27 | 10 | 4 | 7 | 24 |
-| last60d | 2026-09-17 | 10 | 59 | 10 | 11 | 7 | 84 |
-| 90d | 2026-08-18 | 22 | 104 | 10 | 27 | 7 | 167 |
-| last180d | 2026-05-20 | 70 | 275 | 10 | 82 | 7 | 492 |
-| 360d | 2025-11-21 | 100 | 571 | 10 | 217 | 7 | 894 |
-| last720d | 2024-11-26 | 100 | 960 | 10 | 597 | 7 | 1599 |
+| 30d | 2026-10-18 | 4 | 33 | 6 | 4 | 8 | 26 |
+| last60d | 2026-09-18 | 10 | 65 | 6 | 11 | 8 | 86 |
+| 90d | 2026-08-19 | 22 | 109 | 6 | 27 | 8 | 169 |
+| last180d | 2026-05-21 | 70 | 278 | 6 | 82 | 8 | 494 |
+| 360d | 2025-11-22 | 100 | 577 | 6 | 217 | 8 | 896 |
+| last720d | 2024-11-27 | 100 | 966 | 6 | 597 | 8 | 1594 |
 
 ## Release assets
 
@@ -90,16 +90,6 @@ Lowest-scoring checks:
 | [themes.zip](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/themes.zip) | 148.0 KiB | `other` |
 | [version.txt](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/version.txt) | 8 B | `other` |
 
-## Distribution status
-
-Reported by **28** distros on [repology.org](https://repology.org/project/oh-my-posh). **5** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `32.1.0` | ✅ latest |
-| Fedora rawhide | `30.5.0` | ⚠️ outdated |
-| Nix unstable | `32.0.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `oh-my-posh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -109,4 +99,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:17:06Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T11:00:46Z._
