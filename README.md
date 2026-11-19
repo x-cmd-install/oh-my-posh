@@ -14,13 +14,13 @@ x install oh-my-posh
 
 ## Code insight
 
-Total: **135,643** lines of code across **839** files in the top 5 languages.
+Total: **136,215** lines of code across **842** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 76,886 | 9,208 | 14,060 | 619 |
-| Json | 46,307 | 0 | 6 | 152 |
-| JavaScript | 6,661 | 1,376 | 837 | 54 |
+| Go | 77,437 | 9,220 | 14,140 | 622 |
+| Json | 46,353 | 0 | 6 | 152 |
+| JavaScript | 6,633 | 1,376 | 837 | 54 |
 | PowerShell | 1,357 | 318 | 237 | 6 |
 | Css | 990 | 274 | 172 | 8 |
 
@@ -42,53 +42,63 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v32.1.0` (2026-11-15)
+- **Latest**: `v33.0.0` (2026-11-17)
 - **Last commit**: 2026-11-17
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 23,768 · **Forks**: 2,803 · **Open issues**: 2,620 · **Contributors**: 497
+- **Stars**: 23,769 · **Forks**: 2,804 · **Open issues**: 2,623 · **Contributors**: 499
 
 ## Totals (cumulative)
 
-- **Releases**: 1626 · **Merged PRs**: 3610 · **Open PRs**: 6 · **Closed issues**: 2612 · **Open issues**: 8 · **Commits**: 5585
+- **Releases**: 1627 · **Merged PRs**: 3614 · **Open PRs**: 5 · **Closed issues**: 2615 · **Open issues**: 8 · **Commits**: 5597
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 4 | 33 | 6 | 4 | 8 | 26 |
-| last60d | 2026-09-18 | 10 | 65 | 6 | 11 | 8 | 86 |
-| 90d | 2026-08-19 | 22 | 109 | 6 | 27 | 8 | 169 |
-| last180d | 2026-05-21 | 70 | 278 | 6 | 82 | 8 | 494 |
-| 360d | 2025-11-22 | 100 | 577 | 6 | 217 | 8 | 896 |
-| last720d | 2024-11-27 | 100 | 966 | 6 | 597 | 8 | 1594 |
+| 30d | 2026-10-20 | 5 | 30 | 5 | 7 | 8 | 38 |
+| last60d | 2026-09-20 | 11 | 69 | 5 | 14 | 8 | 98 |
+| 90d | 2026-08-21 | 23 | 112 | 5 | 29 | 8 | 181 |
+| last180d | 2026-05-23 | 71 | 279 | 5 | 83 | 8 | 506 |
+| 360d | 2025-11-24 | 100 | 580 | 5 | 220 | 8 | 908 |
+| last720d | 2024-11-29 | 100 | 966 | 5 | 598 | 8 | 1602 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/checksums.txt) | 846 B | `other` |
-| [checksums.txt.sig](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/checksums.txt.sig) | 64 B | `other` |
-| [install-arm64.appinstaller](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/install-arm64.appinstaller) | 592 B | `other` |
-| [install-arm64.msix](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/install-arm64.msix) | 5.2 MiB | `other` |
-| [install-x64.appinstaller](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/install-x64.appinstaller) | 586 B | `other` |
-| [install-x64.msix](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/install-x64.msix) | 5.9 MiB | `other` |
-| [oh-my-posh-32.1.0-deps.tar.xz](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/oh-my-posh-32.1.0-deps.tar.xz) | 34.4 MiB | `other` |
-| [posh-android-arm](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/posh-android-arm) | 13.6 MiB | `other` |
-| [posh-darwin-amd64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/posh-darwin-amd64) | 14.3 MiB | `native/darwin/x64` |
-| [posh-darwin-arm64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/posh-darwin-arm64) | 13.4 MiB | `native/darwin/arm64` |
-| [posh-freebsd-amd64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/posh-freebsd-amd64) | 13.8 MiB | `other` |
-| [posh-freebsd-arm](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/posh-freebsd-arm) | 13.5 MiB | `other` |
-| [posh-freebsd-arm64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/posh-freebsd-arm64) | 12.8 MiB | `other` |
-| [posh-linux-amd64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/posh-linux-amd64) | 13.9 MiB | `native/linux/x64` |
-| [posh-linux-arm](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/posh-linux-arm) | 13.6 MiB | `native/linux/arm` |
-| [posh-linux-arm64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/posh-linux-arm64) | 12.9 MiB | `native/linux/arm64` |
-| [posh-windows-amd64.exe](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/posh-windows-amd64.exe) | 14.4 MiB | `native/win/x64` |
-| [posh-windows-arm64.exe](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/posh-windows-arm64.exe) | 13.2 MiB | `native/win/arm64` |
-| [themes.zip](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/themes.zip) | 148.0 KiB | `other` |
-| [version.txt](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v32.1.0/version.txt) | 8 B | `other` |
+| [checksums.txt](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/checksums.txt) | 846 B | `other` |
+| [checksums.txt.sig](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/checksums.txt.sig) | 64 B | `other` |
+| [install-arm64.appinstaller](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/install-arm64.appinstaller) | 592 B | `other` |
+| [install-arm64.msix](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/install-arm64.msix) | 5.3 MiB | `other` |
+| [install-x64.appinstaller](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/install-x64.appinstaller) | 586 B | `other` |
+| [install-x64.msix](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/install-x64.msix) | 5.9 MiB | `other` |
+| [oh-my-posh-33.0.0-deps.tar.xz](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/oh-my-posh-33.0.0-deps.tar.xz) | 34.4 MiB | `other` |
+| [posh-android-arm](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/posh-android-arm) | 13.6 MiB | `other` |
+| [posh-darwin-amd64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/posh-darwin-amd64) | 14.3 MiB | `native/darwin/x64` |
+| [posh-darwin-arm64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/posh-darwin-arm64) | 13.4 MiB | `native/darwin/arm64` |
+| [posh-freebsd-amd64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/posh-freebsd-amd64) | 13.8 MiB | `other` |
+| [posh-freebsd-arm](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/posh-freebsd-arm) | 13.5 MiB | `other` |
+| [posh-freebsd-arm64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/posh-freebsd-arm64) | 12.9 MiB | `other` |
+| [posh-linux-amd64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/posh-linux-amd64) | 13.9 MiB | `native/linux/x64` |
+| [posh-linux-arm](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/posh-linux-arm) | 13.6 MiB | `native/linux/arm` |
+| [posh-linux-arm64](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/posh-linux-arm64) | 12.9 MiB | `native/linux/arm64` |
+| [posh-windows-amd64.exe](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/posh-windows-amd64.exe) | 14.4 MiB | `native/win/x64` |
+| [posh-windows-arm64.exe](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/posh-windows-arm64.exe) | 13.2 MiB | `native/win/arm64` |
+| [themes.zip](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/themes.zip) | 151.3 KiB | `other` |
+| [version.txt](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.0.0/version.txt) | 8 B | `other` |
+
+## Distribution status
+
+Reported by **29** distros on [repology.org](https://repology.org/project/oh-my-posh). **6** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `33.0.0` | ✅ latest |
+| Fedora rawhide | `30.5.0` | ⚠️ outdated |
+| Nix unstable | `32.0.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -99,4 +109,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T11:00:46Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:18:55Z._
