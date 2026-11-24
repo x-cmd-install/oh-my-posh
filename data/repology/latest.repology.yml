@@ -1,25 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: oh-my-posh
-  visiblename: oh-my-posh
-  version: 24.11.4
-  origversion: null
-  status: outdated
-  summary: Prompt theme engine for any shell
-  maintainers:
-    - lucperkins@gmail.com
-    - colin@urandom.co.uk
-  licenses:
-    - MIT
-- repo: msys2_ucrt64
-  srcname: mingw-w64-oh-my-posh
-  binname: mingw-w64-ucrt-x86_64-oh-my-posh
-  visiblename: mingw-w64-ucrt-x86_64-oh-my-posh
-  version: 31.7.0
-  origversion: 31.7.0-1
-  status: outdated
-  summary: A prompt theme engine for any shell (mingw-w64)
-  licenses:
-    - spdx:MIT
 - repo: aur
   srcname: oh-my-posh
   binname: oh-my-posh
@@ -36,9 +14,9 @@
   srcname: oh-my-posh-bin
   binname: oh-my-posh-bin
   visiblename: oh-my-posh-bin
-  version: 33.3.0
-  origversion: 33.3.0-1
-  status: outdated
+  version: 33.4.0
+  origversion: 33.4.0-1
+  status: newest
   summary: A prompt theme engine for any shell.
   maintainers:
     - kamack38@aur
@@ -111,18 +89,6 @@
     - Apache-2.0 AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unicode-DFS-2016 AND (FTL OR GPL-2.0-or-later)
   categories:
     - Unspecified
-- repo: nix_stable_25_11
-  srcname: oh-my-posh
-  visiblename: oh-my-posh
-  version: 26.23.6
-  origversion: null
-  status: outdated
-  summary: Prompt theme engine for any shell
-  maintainers:
-    - lucperkins@gmail.com
-    - colin@urandom.co.uk
-  licenses:
-    - MIT
 - repo: fedora_44
   subrepo: release
   srcname: oh-my-posh
@@ -174,9 +140,9 @@
 - repo: homebrew
   srcname: oh-my-posh
   visiblename: oh-my-posh
-  version: 33.3.0
+  version: 33.4.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Prompt theme engine for any shell
 - repo: homebrew
   srcname: oh-my-posh
@@ -220,6 +186,16 @@
   summary: A prompt theme engine for any shell (mingw-w64)
   licenses:
     - spdx:MIT
+- repo: msys2_ucrt64
+  srcname: mingw-w64-oh-my-posh
+  binname: mingw-w64-ucrt-x86_64-oh-my-posh
+  visiblename: mingw-w64-ucrt-x86_64-oh-my-posh
+  version: 31.7.0
+  origversion: 31.7.0-1
+  status: outdated
+  summary: A prompt theme engine for any shell (mingw-w64)
+  licenses:
+    - spdx:MIT
 - repo: nix_stable_24_05
   srcname: oh-my-posh
   visiblename: oh-my-posh
@@ -236,6 +212,30 @@
   srcname: oh-my-posh
   visiblename: oh-my-posh
   version: 23.20.3
+  origversion: null
+  status: outdated
+  summary: Prompt theme engine for any shell
+  maintainers:
+    - lucperkins@gmail.com
+    - colin@urandom.co.uk
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: oh-my-posh
+  visiblename: oh-my-posh
+  version: 24.11.4
+  origversion: null
+  status: outdated
+  summary: Prompt theme engine for any shell
+  maintainers:
+    - lucperkins@gmail.com
+    - colin@urandom.co.uk
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: oh-my-posh
+  visiblename: oh-my-posh
+  version: 26.23.6
   origversion: null
   status: outdated
   summary: Prompt theme engine for any shell
@@ -272,8 +272,8 @@
   srcname: oh-my-posh-git
   binname: oh-my-posh-git
   visiblename: oh-my-posh-git
-  version: 3e6f0460
-  origversion: 3e6f0460-2
+  version: 52be0064
+  origversion: 52be0064-2
   status: rolling
   summary: A prompt theme engine for any shell
   maintainers:
@@ -306,7 +306,7 @@
   srcname: shells/oh-my-posh
   binname: oh-my-posh
   visiblename: shells/oh-my-posh
-  version: 33.1.0
+  version: 33.2.0
   origversion: null
   status: outdated
   summary: Prompt theme engine for any shell
@@ -318,7 +318,7 @@
   subrepo: main
   binname: oh-my-posh
   visiblename: oh-my-posh
-  version: 33.3.1
+  version: 33.4.0
   origversion: null
   status: newest
   licenses:
@@ -326,7 +326,7 @@
 - repo: t2
   srcname: oh-my-posh
   visiblename: oh-my-posh
-  version: 33.2.0
+  version: 33.3.1
   origversion: null
   status: outdated
   summary: Shell prompt theme engine
@@ -340,9 +340,9 @@
   srcname: oh-my-posh
   binname: oh-my-posh
   visiblename: oh-my-posh
-  version: 33.3.0
+  version: 33.4.0
   origversion: null
-  status: outdated
+  status: newest
   summary: A prompt theme engine for any shell.
   maintainers:
     - termux@github
