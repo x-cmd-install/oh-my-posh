@@ -43,27 +43,27 @@ x install oh-my-posh
 ## 发布
 
 - **最新版本**: `v33.4.0` (2026-11-23)
-- **最近提交**: 2026-11-24
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 20 个
 
 ## 流行度
 
-- **Star**: 23,781 · **Fork**: 2,806 · **开放 issue**: 2,628 · **贡献者**: 503
+- **Star**: 23,787 · **Fork**: 2,810 · **开放 issue**: 2,629 · **贡献者**: 503
 
 ## 累计统计
 
-- **发布数**: 1632 · **已合并 PR**: 3633 · **开放 PR**: 0 · **已关闭 issue**: 2628 · **开放 issue**: 0 · **提交数**: 5625
+- **发布数**: 1632 · **已合并 PR**: 3634 · **开放 PR**: 1 · **已关闭 issue**: 2628 · **开放 issue**: 1 · **提交数**: 5626
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 8 | 48 | 0 | 19 | 0 | 61 |
-| last60d | 2026-09-25 | 16 | 86 | 0 | 25 | 0 | 117 |
-| 90d | 2026-08-26 | 27 | 120 | 0 | 39 | 0 | 174 |
-| last180d | 2026-05-28 | 76 | 296 | 0 | 95 | 0 | 532 |
-| 360d | 2025-11-29 | 100 | 595 | 0 | 230 | 0 | 927 |
-| last720d | 2024-12-04 | 100 | 977 | 0 | 603 | 0 | 1617 |
+| 30d | 2026-10-26 | 8 | 48 | 1 | 18 | 1 | 62 |
+| last60d | 2026-09-26 | 16 | 85 | 1 | 25 | 1 | 118 |
+| 90d | 2026-08-27 | 26 | 116 | 1 | 38 | 1 | 175 |
+| last180d | 2026-05-29 | 76 | 296 | 1 | 95 | 1 | 533 |
+| 360d | 2025-11-30 | 100 | 596 | 1 | 230 | 1 | 928 |
+| last720d | 2024-12-05 | 100 | 978 | 1 | 603 | 1 | 1617 |
 
 ## Release 资产
 
@@ -90,16 +90,6 @@ x install oh-my-posh
 | [themes.zip](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.4.0/themes.zip) | 151.3 KiB | `other` |
 | [version.txt](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.4.0/version.txt) | 8 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/oh-my-posh) 上共有 **29** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `33.4.0` | ✅ latest |
-| Fedora rawhide | `30.5.0` | ⚠️ outdated |
-| Nix unstable | `32.0.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 oh-my-posh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `oh-my-posh` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -109,4 +99,4 @@ oh-my-posh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:36:02Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:19:03Z._
