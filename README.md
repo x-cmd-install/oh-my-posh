@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,800 · **Forks**: 2,811 · **Open issues**: 2,630 · **Contributors**: 504
+- **Stars**: 23,801 · **Forks**: 2,810 · **Open issues**: 2,630 · **Contributors**: 504
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 9 | 49 | 2 | 17 | 2 | 66 |
-| last60d | 2026-09-28 | 17 | 88 | 2 | 24 | 2 | 122 |
-| 90d | 2026-08-29 | 25 | 117 | 2 | 37 | 2 | 179 |
-| last180d | 2026-05-31 | 77 | 299 | 2 | 95 | 2 | 537 |
-| 360d | 2025-12-02 | 100 | 593 | 2 | 230 | 2 | 932 |
-| last720d | 2024-12-07 | 100 | 978 | 2 | 602 | 2 | 1618 |
+| 30d | 2026-10-29 | 9 | 47 | 2 | 17 | 2 | 66 |
+| last60d | 2026-09-29 | 16 | 87 | 2 | 23 | 2 | 122 |
+| 90d | 2026-08-30 | 25 | 116 | 2 | 37 | 2 | 179 |
+| last180d | 2026-06-01 | 77 | 298 | 2 | 94 | 2 | 537 |
+| 360d | 2025-12-03 | 100 | 593 | 2 | 230 | 2 | 932 |
+| last720d | 2024-12-08 | 100 | 978 | 2 | 601 | 2 | 1616 |
 
 ## Release assets
 
@@ -90,6 +90,16 @@ Lowest-scoring checks:
 | [themes.zip](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.4.1/themes.zip) | 151.3 KiB | `other` |
 | [version.txt](https://github.com/jandedobbeleer/oh-my-posh/releases/download/v33.4.1/version.txt) | 8 B | `other` |
 
+## Distribution status
+
+Reported by **29** distros on [repology.org](https://repology.org/project/oh-my-posh). **6** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `33.4.1` | ✅ latest |
+| Fedora rawhide | `30.5.0` | ⚠️ outdated |
+| Nix unstable | `32.0.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `oh-my-posh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +109,4 @@ Install metadata for oh-my-posh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:19:13Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:37:46Z._
